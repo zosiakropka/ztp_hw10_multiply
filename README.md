@@ -1,2 +1,4 @@
-ztp_hw10_multiply
-=================
+Multithreaded matrix multiplication
+===================================
+
+Just it.
